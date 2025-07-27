@@ -1,1 +1,1 @@
-zabbix-agent2:latest
+zabbix/zabbix-agent2:latest
