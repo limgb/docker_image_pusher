@@ -1,1 +1,1 @@
-zabbix-agent:latest
+Zabbix agent 8.0
