@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:sha256-0281b2442a1ed1f2ad17b61b56c98d2137b11de53c882e1c788516d88ffdc72c.sig
+docker.io/zabbix/zabbix-agent:sha256-0281b2442a1ed1f2ad17b61b56c98d2137b11de53c882e1c788516d88ffdc72c.sig
