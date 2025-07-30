@@ -1,1 +1,1 @@
-mysql:5.7
+ zabbix/zabbix-web-nginx-mysql:alpine-6.4-latest
