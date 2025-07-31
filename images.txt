@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:7.4-latest
+zabbix/zabbix-agent:7.4.0
