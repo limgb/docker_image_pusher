@@ -1,4 +1,1 @@
-gitlab/gitlab-ce:16.7.3-ce.0
-jenkins/jenkins:2.426.3-lts-jdk17
-sonarqube:10.3-community
- gitlab/gitlab-runner:v16.7.0
+postgres:15
