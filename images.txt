@@ -1,1 +1,1 @@
-atlassian/jira-software:9.11
+jenkins/jenkins:lts
